@@ -1,0 +1,12 @@
+[package]
+name = "witx-docgen"
+version = "0.1.0"
+authors = ["Frank Denis <github@pureftpd.org>"]
+edition = "2018"
+keywords = ["webassembly", "wasm", "witx", "doc"]
+categories = ["wasm"]
+license = "MIT"
+
+[dependencies]
+clap = "2.33.0"
+witx = "0.8.5"
