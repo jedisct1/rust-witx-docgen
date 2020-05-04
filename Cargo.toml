@@ -6,6 +6,8 @@ edition = "2018"
 keywords = ["webassembly", "wasm", "witx", "doc"]
 categories = ["wasm"]
 license = "MIT"
+homepage = "https://github.com/jedisct1/rust-witx-docgen"
+repository = "https://github.com/jedisct1/rust-witx-docgen"
 
 [dependencies]
 clap = "2.33.0"
