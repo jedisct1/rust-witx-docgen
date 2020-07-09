@@ -1,6 +1,6 @@
 [package]
 name = "witx-docgen"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Frank Denis <github@pureftpd.org>"]
 edition = "2018"
 keywords = ["webassembly", "wasm", "witx", "doc"]
@@ -11,5 +11,5 @@ repository = "https://github.com/jedisct1/rust-witx-docgen"
 description = "CLI tool to generate documentation from a WITX file."
 
 [dependencies]
-clap = "2.33.0"
-witx = "0.8.5"
+clap = "2"
+witx = "0.8.6"
