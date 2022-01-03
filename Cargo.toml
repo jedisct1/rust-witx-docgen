@@ -11,5 +11,5 @@ repository = "https://github.com/jedisct1/rust-witx-docgen"
 description = "CLI tool to generate documentation from a WITX file."
 
 [dependencies]
-clap = "2"
+clap = "3"
 witx = "0.9.0"
